@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "https://plextdm.github.io/build/static/css/main.d76346f8.chunk.css",
-    "main.js": "https://plextdm.github.io/build/static/js/main.eb00fcd2.chunk.js",
-    "main.js.map": "https://plextdm.github.io/build/static/js/main.eb00fcd2.chunk.js.map",
+    "main.js": "https://plextdm.github.io/build/static/js/main.8d3b9fe0.chunk.js",
+    "main.js.map": "https://plextdm.github.io/build/static/js/main.8d3b9fe0.chunk.js.map",
     "runtime-main.js": "https://plextdm.github.io/build/static/js/runtime-main.215bd980.js",
     "runtime-main.js.map": "https://plextdm.github.io/build/static/js/runtime-main.215bd980.js.map",
-    "static/js/2.0f83d737.chunk.js": "https://plextdm.github.io/build/static/js/2.0f83d737.chunk.js",
-    "static/js/2.0f83d737.chunk.js.map": "https://plextdm.github.io/build/static/js/2.0f83d737.chunk.js.map",
+    "static/js/2.3750b62b.chunk.js": "https://plextdm.github.io/build/static/js/2.3750b62b.chunk.js",
+    "static/js/2.3750b62b.chunk.js.map": "https://plextdm.github.io/build/static/js/2.3750b62b.chunk.js.map",
     "index.html": "https://plextdm.github.io/build/index.html",
     "static/css/main.d76346f8.chunk.css.map": "https://plextdm.github.io/build/static/css/main.d76346f8.chunk.css.map",
-    "static/js/2.0f83d737.chunk.js.LICENSE.txt": "https://plextdm.github.io/build/static/js/2.0f83d737.chunk.js.LICENSE.txt"
+    "static/js/2.3750b62b.chunk.js.LICENSE.txt": "https://plextdm.github.io/build/static/js/2.3750b62b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.215bd980.js",
-    "static/js/2.0f83d737.chunk.js",
+    "static/js/2.3750b62b.chunk.js",
     "static/css/main.d76346f8.chunk.css",
-    "static/js/main.eb00fcd2.chunk.js"
+    "static/js/main.8d3b9fe0.chunk.js"
   ]
 }
