@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://plextdm.github.io/build/static/css/main.cb903fd6.chunk.css",
-    "main.js": "https://plextdm.github.io/build/static/js/main.a23879d3.chunk.js",
-    "main.js.map": "https://plextdm.github.io/build/static/js/main.a23879d3.chunk.js.map",
+    "main.js": "https://plextdm.github.io/build/static/js/main.8a4f2941.chunk.js",
+    "main.js.map": "https://plextdm.github.io/build/static/js/main.8a4f2941.chunk.js.map",
     "runtime-main.js": "https://plextdm.github.io/build/static/js/runtime-main.215bd980.js",
     "runtime-main.js.map": "https://plextdm.github.io/build/static/js/runtime-main.215bd980.js.map",
     "static/js/2.d67b9b75.chunk.js": "https://plextdm.github.io/build/static/js/2.d67b9b75.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.215bd980.js",
     "static/js/2.d67b9b75.chunk.js",
     "static/css/main.cb903fd6.chunk.css",
-    "static/js/main.a23879d3.chunk.js"
+    "static/js/main.8a4f2941.chunk.js"
   ]
 }
